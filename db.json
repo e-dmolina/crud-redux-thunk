@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "18",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "201",
+      "id": 5
+    },
+    {
+      "nombre": "pebete",
+      "precio": "3",
+      "id": 6
+    },
+    {
+      "nombre": "Calabreza",
+      "precio": 3,
+      "id": 7
+    },
+    {
+      "nombre": "Muzzarella",
+      "precio": 7,
+      "id": 8
+    },
+    {
+      "nombre": "sdf",
+      "precio": 1,
+      "id": 9
+    }
+  ]
+}
